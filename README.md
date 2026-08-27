@@ -1,8 +1,8 @@
-# 📄 Document Q&A with GPT-4o (RAG)
+#  Document Q&A with GPT-4o (RAG)
 
 A Retrieval-Augmented Generation (RAG) system that allows users to ask questions about PDF documents and receive context-grounded answers using GPT-4o.
 
-## 🚀 Project Overview
+##  Project Overview
 
 This project combines document retrieval with a Large Language Model to answer questions from a given PDF document.
 
@@ -15,7 +15,7 @@ This project combines document retrieval with a Large Language Model to answer q
 5. Retrieves relevant information for a question
 6. Uses GPT-4o to generate a context-grounded answer
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - LangChain
@@ -26,7 +26,7 @@ This project combines document retrieval with a Large Language Model to answer q
 - Unstructured
 - Jupyter Notebook / Google Colab
 
-## ⚙️ Architecture
+##  Architecture
 
 PDF Document
 ↓
@@ -44,19 +44,19 @@ GPT-4o
 ↓
 Context-Grounded Answer
 
-## 💡 Example Questions
+##  Example Questions
 
 - What is this document about?
 - What is the model architecture discussed in this paper?
 - What are the applications of attention in the model?
 
-## 🔐 API Key
+##  API Key
 
 An OpenAI API key is required to run the GPT-4o component.
 
 **Never upload your real API key to GitHub.**
 
-## ▶️ How to Run
+##  How to Run
 
 Install the required dependencies:
 
